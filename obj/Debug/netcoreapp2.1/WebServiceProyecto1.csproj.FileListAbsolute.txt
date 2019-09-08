@@ -1,0 +1,14 @@
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\bin\Debug\netcoreapp2.1\WebServiceProyecto1.deps.json
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\bin\Debug\netcoreapp2.1\WebServiceProyecto1.runtimeconfig.json
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\bin\Debug\netcoreapp2.1\WebServiceProyecto1.runtimeconfig.dev.json
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\bin\Debug\netcoreapp2.1\WebServiceProyecto1.dll
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\bin\Debug\netcoreapp2.1\WebServiceProyecto1.pdb
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.csprojAssemblyReference.cache
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.csproj.CoreCompileInputs.cache
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.RazorAssemblyInfo.cache
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.RazorAssemblyInfo.cs
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.AssemblyInfoInputs.cache
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.AssemblyInfo.cs
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.RazorTargetAssemblyInfo.cache
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.dll
+C:\Users\XPC\source\repos\WebServiceProyecto1\WebServiceProyecto1\obj\Debug\netcoreapp2.1\WebServiceProyecto1.pdb
